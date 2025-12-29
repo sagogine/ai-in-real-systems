@@ -42,10 +42,10 @@ Along the way, this repo captures lessons learned — including ideas that didn�
 
 ## Repository structure
 
-ai-in-real-systems/
-├── essays/ # Long-form markdown essays
-├── prototypes/ # Small, focused experiments
-├── diagrams/ # Architecture and system diagrams
+ai-in-real-systems/ \
+├── essays/ # Long-form markdown essays \
+├── prototypes/ # Small, focused experiments \
+├── diagrams/ # Architecture and system diagrams \
 └── README.md
 
 ---
